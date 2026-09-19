@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# React Native
+node_modules/
+android/.gradle/
+ios/Pods/
+
+# Python
+__pycache__/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
